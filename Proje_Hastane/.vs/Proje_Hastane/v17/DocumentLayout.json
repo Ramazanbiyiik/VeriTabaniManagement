@@ -1,0 +1,550 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|c:\\users\\ramaz\\onedrive\\desktop\\veritabani\\proje_hastane\\proje_hastane\\frmsekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmsekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmsekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmsekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmsekretergiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmsekretergiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmsekretergiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmsekretergiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\sqlbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\sqlbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmfatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmfatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmfatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmfatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmrandevulistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmrandevulistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmhastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmgirisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmgirisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmduyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmduyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmdoktorpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktorpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmdoktorpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktorpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmdoktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmdoktorbilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktorbilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmdoktorbilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktorbilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmbranspaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmbranspaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmbranspaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmbranspaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmrandevulistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmrandevulistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmduyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmduyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmhastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmhastabilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastabilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmhastabilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastabilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmdoktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmsekreterdetay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmsekreterdetay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmsekreterdetay.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmsekreterdetay.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmgirisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmgirisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\proje_hastane\\frmgirisler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2857A3EF-D187-40E4-BA3B-88D9DBD24CCD}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmgirisler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmSekreterGiris.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmSekreterGiris.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmSekreterGiris.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmSekreterGiris.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmSekreterGiris.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvyAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:30:41.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmHastaKayit.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmHastaKayit.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaKayit.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmHastaKayit.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmHastaKayit.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:50:09.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmSekreterGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmSekreterGiris.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmSekreterGiris.cs",
+              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmSekreterGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmSekreterGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T09:58:15.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmSekreterDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmSekreterDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmSekreterDetay.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmSekreterDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje_Hastane\\FrmSekreterDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:45:14.793Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmSekreterDetay.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmSekreterDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmSekreterDetay.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmSekreterDetay.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmSekreterDetay.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAADwvyMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:17:42.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmHastaKayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmHastaKayit.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaKayit.cs",
+              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmHastaKayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmHastaKayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:50:08.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqlBaglanti.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\SqlBaglanti.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\SqlBaglanti.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\SqlBaglanti.cs",
+              "RelativeToolTip": "Proje_Hastane\\SqlBaglanti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:05:27.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmFatura.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmFatura.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmFatura.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmFatura.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmFatura.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwBcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:04:41.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmFatura.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmFatura.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmFatura.cs",
+              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmFatura.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmFatura.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:56:44.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmRandevuListesi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmRandevuListesi.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmRandevuListesi.cs",
+              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmRandevuListesi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmRandevuListesi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:50:29.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmHastaGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmHastaGiris.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaGiris.cs",
+              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmHastaGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmHastaGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:49:37.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmHastaDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmHastaDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaDetay.cs",
+              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmHastaDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmHastaDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T07:01:23.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmGirisler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmGirisler.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmGirisler.cs",
+              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmGirisler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmGirisler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:41:16.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmDuyurular.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmDuyurular.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDuyurular.cs",
+              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmDuyurular.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmDuyurular.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:42:48.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmDoktorPaneli.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmDoktorPaneli.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorPaneli.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmDoktorPaneli.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorPaneli.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:59:34.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmDoktorPaneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmDoktorPaneli.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorPaneli.cs",
+              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmDoktorPaneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmDoktorPaneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:59:32.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmDoktorGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmDoktorGiris.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorGiris.cs",
+              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmDoktorGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmDoktorGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:41:58.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmDoktorDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorDetay.cs",
+              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:53:35.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmDoktorBilgiDuzenle.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmDoktorBilgiDuzenle.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorBilgiDuzenle.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmDoktorBilgiDuzenle.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorBilgiDuzenle.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:21:29.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmDoktorBilgiDuzenle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmDoktorBilgiDuzenle.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorBilgiDuzenle.cs",
+              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmDoktorBilgiDuzenle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmDoktorBilgiDuzenle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:20:44.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmBransPaneli.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmBransPaneli.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmBransPaneli.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmBransPaneli.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmBransPaneli.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:54:00.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmBransPaneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmBransPaneli.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmBransPaneli.cs",
+              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmBransPaneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmBransPaneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:53:40.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmRandevuListesi.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmRandevuListesi.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmRandevuListesi.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmRandevuListesi.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmRandevuListesi.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:50:30.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmDuyurular.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmDuyurular.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDuyurular.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmDuyurular.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmDuyurular.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:46:38.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmHastaDetay.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmHastaDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaDetay.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmHastaDetay.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmHastaDetay.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAQwFAAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:45:55.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmDoktorDetay.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorDetay.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorDetay.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:55:39.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmHastaBilgiDuzenle.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmHastaBilgiDuzenle.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaBilgiDuzenle.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmHastaBilgiDuzenle.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmHastaBilgiDuzenle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:28:09.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmHastaBilgiDuzenle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmHastaBilgiDuzenle.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaBilgiDuzenle.cs",
+              "ToolTip": "C:\\Users\\ramaz\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmHastaBilgiDuzenle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Proje_Hastane\\Proje_Hastane\\FrmHastaBilgiDuzenle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:42:51.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmDoktorGiris.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmDoktorGiris.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorGiris.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmDoktorGiris.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorGiris.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA8wBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:45:35.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmHastaGiris.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmHastaGiris.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaGiris.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmHastaGiris.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmHastaGiris.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwB8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:49:39.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmSekreterDetay.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmSekreterDetay.Designer.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmSekreterDetay.Designer.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmSekreterDetay.Designer.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmSekreterDetay.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:53:03.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmSekreterDetay.resx",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmSekreterDetay.resx",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmSekreterDetay.resx",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmSekreterDetay.resx",
+              "RelativeToolTip": "Proje_Hastane\\FrmSekreterDetay.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-12-13T07:53:06.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmGirisler.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmGirisler.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmGirisler.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmGirisler.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmGirisler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:44:19.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmGirisler.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmGirisler.Designer.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmGirisler.Designer.cs",
+              "ToolTip": "C:\\Users\\ramaz\\OneDrive\\Desktop\\Veritabani\\Proje_Hastane\\Proje_Hastane\\FrmGirisler.Designer.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmGirisler.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:41:12.94Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
